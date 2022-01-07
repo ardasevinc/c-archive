@@ -1,0 +1,23 @@
+"..\\..\\Documents\\Academic\\hello.exe":
+	path: "..\\..\\Documents\\Academic\\hello.exe"
+	cwd: "..\\..\\Documents\\Academic"
+
+"..\\..\\Documents\\Academic\\hello.exe 2":
+	path: "..\\..\\Documents\\Academic\\hello.exe"
+	cwd: "..\\..\\Documents\\Academic"
+
+"..\\ascii.exe":
+	path: "..\\ascii.exe"
+	cwd: ".."
+
+"..\\..\\Desktop\\C\\hello.exe":
+	path: "..\\..\\Desktop\\C\\hello.exe"
+	cwd: "..\\..\\Desktop\\C"
+
+"..\\..\\Desktop\\C\\hello.exe 2":
+	path: "..\\..\\Desktop\\C\\hello.exe"
+	cwd: "..\\..\\Desktop\\C"
+
+"..\\..\\Desktop\\C\\hello.exe 3":
+	path: "..\\..\\Desktop\\C\\hello.exe"
+	cwd: "..\\..\\Desktop\\C"

@@ -1,0 +1,8 @@
+/snap/clion/61/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/ardasevinc/Programming/C_Projects/untitled
+CMake Error at CMakeLists.txt:6 (target_link_libraries):
+  Cannot specify link libraries for target "<math.h>" which is not built by
+  this project.
+
+
+-- Configuring incomplete, errors occurred!
+See also "/home/ardasevinc/Programming/C_Projects/untitled/cmake-build-debug/CMakeFiles/CMakeOutput.log".
